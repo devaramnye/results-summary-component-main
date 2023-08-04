@@ -1,13 +1,18 @@
 * {
     box-sizing: border-box;
-}
-
-body {
     margin: 0;
 }
 
-main {
-    min-height: 100vh;
-    display: grid;
-    place-content: center;
+html {
+    font-size: 18px;
+}
+
+.result {
+    width: 100%;
+    background-color: hsl(252, 100%, 67%);
+    text-align: center;
+}
+
+p {
+    font-size: 1rem;
 }

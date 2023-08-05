@@ -13,7 +13,7 @@ main {
     gap: 1rem;
 }
 
-p {
+h3 {
     font-size: 0.938rem;
 }
 
@@ -80,9 +80,11 @@ h2 {
     border-radius: 8px;
     padding: 0.9rem;
     margin: 1rem 0;
+    display: flex;
+    justify-content: space-between;
 }
 
-.areas > img {
+.areas > div > img {
     margin: 0 0.5rem;
 }
 

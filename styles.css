@@ -66,7 +66,6 @@ h3 {
 .g-para {
     margin: 0.5rem;
 }
-
 .large {
     font-size: 1.3rem;
     font-weight: 700;
@@ -179,12 +178,10 @@ h2 {
         padding-right: 0.5rem;
     }
     .first-section {
-        flex: 1 1 50%;
-        width: 40rem;
+        flex: 1 1 70%;
     }
     .second-section {
-        flex: 1 1 50%;
-        width: 0.1rem;
+        flex: 1 1 30%;
         margin-top: 1.5rem;
     }
     .circle {

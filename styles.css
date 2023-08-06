@@ -6,6 +6,7 @@
 body {
     font-family: "Hanken Grotesk", sans-serif;
     background: hsl(0, 0%, 100%);
+    font-size: 1.125rem;
 }
 
 main {
@@ -16,6 +17,10 @@ main {
 
 .color {
     color: hsl(241, 100%, 89%); 
+}
+
+.block {
+    display: block;
 }
 
 h3 {
@@ -43,8 +48,6 @@ h3 {
     background:
     linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
     border-radius: 50%;
-    width: 7rem;
-    height: 7rem;
     display: grid;
     place-content: center;
     margin: 1rem 0.5rem 0 0;

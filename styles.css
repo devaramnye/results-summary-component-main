@@ -36,9 +36,8 @@ h3 {
     background:
     linear-gradient(hsla(252, 100%, 67%, 99%), hsla(241, 81%, 54%, 90%));
     border-radius: 0 0 30px 30px;
-    padding: 1rem 2rem 2rem 2rem;
+    padding: 1rem 4rem 2rem 4rem;
     display: flex;
-    justify-content: center;
     align-items: center;
     flex-direction: column;
     color: hsl(0, 0%, 100%);
@@ -178,32 +177,14 @@ h2 {
         padding-right: 0.5rem;
     }
     .first-section {
-        flex: 1 1 70%;
+        flex: 1 1 60%;
     }
     .second-section {
-        flex: 1 1 30%;
+        flex: 1 1 40%;
         margin-top: 1.5rem;
     }
     .circle {
         height: 150px;
         width: 150px;
-    }
-    .g-para {
-        margin-top: 1.5rem;
-    }
-    .large {
-        font-size: 1.5rem;
-    }
-    h1 {
-        margin: 1rem 0;
-    }
-    .larger {
-        font-size: 4rem;
-    }
-    .small {
-        font-size: 1.3rem;
-    }
-    .button {
-        margin: 2rem 0rem;
     }
 }

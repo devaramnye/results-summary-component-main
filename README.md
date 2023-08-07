@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://devaramnye.github.io/results-summary-component-main/]
+- Solution URL: [https://github.com/devaramnye/results-summary-component-main]
 - Live Site URL: [https://devaramnye.github.io/results-summary-component-main/]
 
 ## My process
